@@ -1,0 +1,12 @@
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Model\bin\Debug\net6.0\CleanCodeAPI.Model.deps.json
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Model\bin\Debug\net6.0\CleanCodeAPI.Model.dll
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Model\bin\Debug\net6.0\CleanCodeAPI.Model.pdb
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Model\obj\Debug\net6.0\CleanCodeAPI.Model.csproj.AssemblyReference.cache
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Model\obj\Debug\net6.0\CleanCodeAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Model\obj\Debug\net6.0\CleanCodeAPI.Model.AssemblyInfoInputs.cache
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Model\obj\Debug\net6.0\CleanCodeAPI.Model.AssemblyInfo.cs
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Model\obj\Debug\net6.0\CleanCodeAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Model\obj\Debug\net6.0\CleanCodeAPI.Model.dll
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Model\obj\Debug\net6.0\refint\CleanCodeAPI.Model.dll
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Model\obj\Debug\net6.0\CleanCodeAPI.Model.pdb
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Model\obj\Debug\net6.0\ref\CleanCodeAPI.Model.dll

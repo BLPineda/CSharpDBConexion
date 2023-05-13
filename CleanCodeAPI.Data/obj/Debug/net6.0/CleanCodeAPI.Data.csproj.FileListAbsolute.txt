@@ -1,0 +1,15 @@
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\bin\Debug\net6.0\CleanCodeAPI.Data.deps.json
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\bin\Debug\net6.0\CleanCodeAPI.Data.dll
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\bin\Debug\net6.0\CleanCodeAPI.Data.pdb
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\bin\Debug\net6.0\CleanCodeAPI.Model.dll
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\bin\Debug\net6.0\CleanCodeAPI.Model.pdb
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\obj\Debug\net6.0\CleanCodeAPI.Data.csproj.AssemblyReference.cache
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\obj\Debug\net6.0\CleanCodeAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\obj\Debug\net6.0\CleanCodeAPI.Data.AssemblyInfoInputs.cache
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\obj\Debug\net6.0\CleanCodeAPI.Data.AssemblyInfo.cs
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\obj\Debug\net6.0\CleanCodeAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\obj\Debug\net6.0\CleanCodeAPI.Data.csproj.CopyComplete
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\obj\Debug\net6.0\CleanCodeAPI.Data.dll
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\obj\Debug\net6.0\refint\CleanCodeAPI.Data.dll
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\obj\Debug\net6.0\CleanCodeAPI.Data.pdb
+C:\Users\lenin\source\repos\CleanCodeAPI\CleanCodeAPI.Data\obj\Debug\net6.0\ref\CleanCodeAPI.Data.dll
